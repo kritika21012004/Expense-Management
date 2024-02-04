@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55f42855.css",
+    "main.js": "/static/js/main.80ee65a6.js",
+    "static/js/592.599f76a2.chunk.js": "/static/js/592.599f76a2.chunk.js",
+    "static/media/pexels-karolina-grabowska-4386339.jpg": "/static/media/pexels-karolina-grabowska-4386339.ea4b6eb147bf2d372501.jpg",
+    "index.html": "/index.html",
+    "main.55f42855.css.map": "/static/css/main.55f42855.css.map",
+    "main.80ee65a6.js.map": "/static/js/main.80ee65a6.js.map",
+    "592.599f76a2.chunk.js.map": "/static/js/592.599f76a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f42855.css",
+    "static/js/main.80ee65a6.js"
+  ]
+}
